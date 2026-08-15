@@ -1,17 +1,40 @@
+## Screenshots
+
 # KLSAT - Kali Linux Security Assessment Toolkit
 
 KLSAT (Kali Linux Security Assessment Toolkit) is a Bash-based cybersecurity toolkit designed to automate basic Linux security assessment and auditing tasks.
 
-# Features
+### System Information
 
-- System Information
-- Network Information
-- Port Scanning
-- Process Monitoring
-- Log Analysis
-- File Permission Scanning
-- Hash Generation
-- Security Reporting
+![System Information](screenshots/system%20info%201.png)
+
+### Network Discovery
+
+![Network Discovery](screenshots/network%20discovery.png)
+
+### Port Scanner
+
+![Port Scanner](screenshots/port%20scanner.png)
+
+### Process Monitor
+
+![Process Monitor](screenshots/running%20process%202.png)
+
+### Log Analysis
+
+![Log Analysis](screenshots/log%20analysis.png)
+
+### File Permission Scanner
+
+![File Permission Scanner](screenshots/file%20permission%20scanner.png)
+
+### Hash Generator
+
+![Hash Generator](screenshots/hash%20generator.png)
+
+### Report Generator
+
+![Report Generator](screenshots/report%20generator.png)
 
 ## Technologies Used
 
