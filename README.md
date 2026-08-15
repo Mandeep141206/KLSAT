@@ -358,7 +358,8 @@ File Hash Verification
      v
 Generate Report
 
-Security Notice
+
+## Security Notice
 
 KLSAT is intended for educational and authorized security assessment purposes only.
 
@@ -368,7 +369,7 @@ Do not use this toolkit against unauthorized systems or networks.
 
 The author is not responsible for misuse or unauthorized use of this project.
 
-Limitations
+## Limitations
 
 KLSAT is designed as a learning and basic security assessment toolkit.
 
@@ -376,7 +377,7 @@ It is not intended to replace professional vulnerability scanners, SIEM platform
 
 The results produced by the toolkit should be interpreted by a security professional or knowledgeable user.
 
-Future Improvements
+## Future Improvements
 
 Planned improvements include:
 
@@ -392,7 +393,7 @@ Additional security assessment modules
 Web-based security dashboard
 Improved report visualization
 
-Learning Outcomes
+## Learning Outcomes
 
 This project helped develop practical knowledge of:
 
@@ -411,7 +412,7 @@ Security auditing
 Git and GitHub
 Modular software design
 
-Author
+## Author
 
 Mandeep Singh
 
